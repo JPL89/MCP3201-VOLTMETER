@@ -1,3 +1,3 @@
 # MCP3201-VOLTMETER
-[!TIP]
+![TIP]
 ![Image](5.jpg)
